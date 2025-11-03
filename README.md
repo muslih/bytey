@@ -1,12 +1,6 @@
 # Bytey - Your Playful Size Formatter 🎭
 
-> *Because 1048576 bytes deserves to be call## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-MIT License - see LICENSE file for details.h love. ❤️*
+> *Because 1048576 bytes deserves to be called 1 MB*
 
 A fun and friendly Go library that converts file sizes into human-readable formats with personality!
 
@@ -89,10 +83,6 @@ go test -cover ./...
 # Run the demo
 go run demo/main.go
 ```
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
 
 ## License
 
