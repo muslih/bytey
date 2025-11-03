@@ -1,8 +1,8 @@
 package bytey
 
 import (
-	"bytey/domain"
-	"bytey/service"
+	"github.com/muslih/bytey/domain"
+	"github.com/muslih/bytey/service"
 )
 
 // ByteyFacade is the main entry point of the package.

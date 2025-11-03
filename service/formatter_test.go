@@ -1,7 +1,7 @@
 package service
 
 import (
-	"bytey/domain"
+	"github.com/muslih/bytey/domain"
 	"testing"
 )
 

@@ -3,8 +3,8 @@ package service
 import (
 	"fmt"
 
-	"bytey/domain"
-	"bytey/helper"
+	"github.com/muslih/bytey/domain"
+	"github.com/muslih/bytey/helper"
 )
 
 // Formatter handles the transformation of a FileSize

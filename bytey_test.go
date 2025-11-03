@@ -3,7 +3,7 @@ package bytey_test
 import (
 	"testing"
 
-	"bytey"
+	"github.com/muslih/bytey"
 )
 
 func TestByteyFacade(t *testing.T) {
