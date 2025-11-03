@@ -1,8 +1,9 @@
 package service
 
 import (
-	"github.com/muslih/bytey/domain"
 	"testing"
+
+	"github.com/muslih/bytey/domain"
 )
 
 func TestFormatter_FormatFormal(t *testing.T) {
